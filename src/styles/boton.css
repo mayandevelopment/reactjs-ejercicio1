@@ -1,0 +1,16 @@
+.btn-comprar{
+    background-color: rgb(61, 220, 220);
+    border-radius: 40px;
+    border: none;
+    height: 40px;
+    width: 90px;
+    
+}
+
+.btn-comprar{
+    color: aliceblue;
+}
+
+.contenedor-boton{
+    padding-top: 30px;
+}
